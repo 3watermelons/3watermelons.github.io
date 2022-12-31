@@ -739,6 +739,7 @@
 	position: relative;
 	left: 0;
 	top: 12px;
+	letter-spacing: 0px !important ;
 }
 .p-Home.TextBox9 {
 	font-family: Plus Jakarta Sans;
